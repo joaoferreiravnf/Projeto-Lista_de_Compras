@@ -1,0 +1,15 @@
+Objtivo da App = Lista de Tarefas
+
+Escolha do Framework = Flask
+Banco de Dados = MySQL (como intergrar a base de dados online?)
+    Colunas: Nome Alimento + Categoria (Legumes, Fruta, etc) + Estado (eliminar após compra)
+Autenticação = JWT ou OAuth
+Documentação do codigo (Swagger?) de forma clara
+
+Planear as rotas, recursos e representações (GET, POST, PUT, DELETE)
+Tratamento de erros robusto, para não deixar duvidas no que deu errado
+Versionamento?
+
+Criar testes unitários e de integração
+Sistema de Logging para monotorização da atividade (logs) e depuração
+Rate limiting para proteger a API contra abusos, limitando o numero de requisições

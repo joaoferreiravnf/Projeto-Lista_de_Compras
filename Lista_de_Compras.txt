@@ -1,4 +1,7 @@
 Objtivo da App = Lista de Tarefas
+- ter uma lista de compras que possa ser editável, com funções como adicionar, editar, eliminar
+- cada item deve ter associado um nome, data, pessoa que adicionou e local de compra
+- cada usuario deve ter um login
 
 Escolha do Framework = Flask
 Banco de Dados = MySQL (como intergrar a base de dados online?)

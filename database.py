@@ -84,7 +84,7 @@ def update_item(item, item2):
         db.close()
 
 # Lógica para mostrar a lista
-def show_list(item, item2):
+def show_list(item):
     try:
         # Cração da instância de ligação à DB
         db = Database()

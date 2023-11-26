@@ -1,1 +1,18 @@
-12-11: Associate routes with HTML, additem for now
+Additem and Home routes associated with HTML - DONE
+Trying to add an item via insert_item, error on conn DB - DONE
+Add table to HTML additem view - DONE
+Add checkbox for item purchased - DONE
+Add droplist for Markets - DONE
+Add Type for type of item it is - DONE
+Order list by type - DONE  
+Creating a login method and implementing it - DONE
+Create a logic for when the login doesnt match - DONE
+Create a LogOff option \ buttor - DONE
+Resolve the problem with ading items - DONE
+Create a session, protect the additem page - DONE
+Create a max width for the view bars - DONE
+Create a navigation bar
+Edit an item 
+
+
+Creat route for API with markets to have prices in real time

@@ -3,7 +3,9 @@
 from flask import Flask, jsonify
 from database import update_item, insert_item, delete_item, show_list
 from routes import main
+import os
 
 app = Flask(__name__)
 app.register_blueprint(main)
 app.config.from_object('config')
+app.secret_key = os.urandom(24)

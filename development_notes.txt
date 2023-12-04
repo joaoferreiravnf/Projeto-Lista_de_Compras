@@ -11,8 +11,11 @@ Create a LogOff option \ buttor - DONE
 Resolve the problem with ading items - DONE
 Create a session, protect the additem page - DONE
 Create a max width for the view bars - DONE
-Create a navigation bar
+Create a navigation bar - DONE
+Resolve the issue with the image not loading
 Edit an item 
+Treatment of the registy with an existing user
+Create the pathg\logic for the "Forgot Password" link
 
 
 Creat route for API with markets to have prices in real time
